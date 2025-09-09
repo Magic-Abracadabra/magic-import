@@ -1,5 +1,6 @@
 # Execute these codes, and then: Importing is Installing!
-[🎬 Watch Demo](https://github.com/Magic-Abracadabra/magic-install/blob/main/Demo.mp4)
+[🎬 Demo](https://github.com/Magic-Abracadabra/magic-install/blob/main/Demo.mp4)
+
 A brief way to use your codes. Just
 ```python
 import magic_install
