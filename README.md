@@ -1,3 +1,4 @@
+# Importing is Installing!
 A brief way to use your codes. Just
 ```python
 import magic_install
