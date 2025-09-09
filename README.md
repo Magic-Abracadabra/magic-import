@@ -5,7 +5,7 @@ A brief way to use your codes. Just
 ```python
 import magic_install
 ```
-Usually, everything will get done for you. Modules can be installed before your later imports.
+Usually, everything will get done for you. Modules of the latest version can be installed before your following imports.
 
 If you don't have numpy,
 ```python
