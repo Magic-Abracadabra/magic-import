@@ -11,3 +11,8 @@ import magic_install
 import numpy as np
 ```
 will install numpy first, and then numpy will be successfully installed. Yeah, that easy.
+
+After import one package, the following libraries will work, too:
+```
+import pyaudio, pymovie, pyautogui, ...
+```
