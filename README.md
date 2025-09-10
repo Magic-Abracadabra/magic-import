@@ -21,7 +21,9 @@ __builtins__.__import__ = install
 
 # start coding from here
 ```
-Usually, everything will get done for you. Modules of the latest version can be installed before your following imports.
+Now, the python keyword "import" has been in a magic spell. Modules of the latest version can be installed before your following imports.
+
+# For example:
 
 If you don't have the numpy,
 ```python
