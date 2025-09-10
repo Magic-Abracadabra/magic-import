@@ -23,11 +23,11 @@ __builtins__.__import__ = install
 ```
 Usually, everything will get done for you. Modules of the latest version can be installed before your following imports.
 
-If you don't have numpy,
+If you don't have the numpy,
 ```python
 import numpy as np
 ```
-will install numpy first, and then numpy will be successfully imported. Yeah, that easy.
+will install it first, and then this module will be successfully imported. Yeah, that easy.
 
 After importing one package, the following libraries will work, too:
 ```python
