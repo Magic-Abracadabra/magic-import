@@ -1,4 +1,4 @@
-# ModuleNotFoundError? Installing before Importing!
+# Module not Found? Installing before Importing!
 [🎬 Demo](https://github.com/Magic-Abracadabra/magic-install/blob/main/Demo.mp4)
 
 A brief way to use your codes. Just copy the source code to start with.
