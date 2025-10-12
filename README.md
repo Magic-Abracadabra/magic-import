@@ -21,7 +21,7 @@ __builtins__.__import__ = install
 
 # start coding from here
 ```
-Now, the python keyword "import" has been in a magic spell. Modules of the latest version can be installed before your following imports.
+Now, the python keyword ✨import✨ has been in a magic spell. Modules of the latest version can be installed before your following imports.
 
 # For example:
 
